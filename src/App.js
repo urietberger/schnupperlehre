@@ -2,8 +2,10 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      Das ist die Webseite meiner Schnupperlehre!
+    <div className="app">
+        <header>Das ist meine Website</header>
+        <main>Das ist der Inhalt</main>
+        <footer>Das ist der Footer</footer>
     </div>
   );
 }
