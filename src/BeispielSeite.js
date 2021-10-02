@@ -2,7 +2,7 @@ import './styles.css';
 
 function BeispielSeite() {
     return (
-        <div>
+        <div className="content--center-center">
             <h1>Beispiel Seite</h1>
         </div>
     );

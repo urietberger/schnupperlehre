@@ -3,7 +3,7 @@ import './styles.css';
 
 function UeberMich() {
     return (
-        <div>
+        <div className="content--center-center">
             <h1>Über mich</h1>
         </div>
     );
